@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1QmH2dDQin5_tqSK6tB9aXn_5M3MMD8GB?usp=sharing
+  /: 
+	url: "https://author-p121032-e1520953.adobeaemcloud.com/bin/franklin.delivery/azmirrul-izzat/poceds/main"
+	type: "markup"
+	suffix: ".html"
